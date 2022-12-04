@@ -1,0 +1,6 @@
+WEBGAME/Build/UnityLoader.js filter=lfs diff=lfs merge=lfs -text
+WEBGAME/Build/新增資料夾.data.unityweb filter=lfs diff=lfs merge=lfs -text
+WEBGAME/Build/新增資料夾.json filter=lfs diff=lfs merge=lfs -text
+WEBGAME/Build/新增資料夾.wasm.code.unityweb filter=lfs diff=lfs merge=lfs -text
+WEBGAME/Build/新增資料夾.wasm.framework.unityweb filter=lfs diff=lfs merge=lfs -text
+ls-files filter=lfs diff=lfs merge=lfs -text
